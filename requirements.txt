@@ -1,0 +1,8 @@
+# Agent Selecta v2.0 — dependências
+textual>=0.50.0
+mutagen
+requests
+pyacoustid
+tqdm
+pandas
+pyarrow
